@@ -1,5 +1,6 @@
 
 import initModal from "./modal.js";
+import toolTip from "./toolTip.js";
 
 
 // Changing content clicking on the image
@@ -86,5 +87,6 @@ initTabNav();
 initAccordion();
 initAnimateScroll();
 initModal();
+toolTip();
 
 
